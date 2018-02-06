@@ -1,0 +1,25 @@
+{
+  "name": "LIRI",
+  "version": "1.0.0",
+  "description": "NWCB assignment - making a basic app similar to SIRI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeleinecgriffin/LIRI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madeleinecgriffin/LIRI/issues"
+  },
+  "homepage": "https://github.com/madeleinecgriffin/LIRI#readme",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
+}
