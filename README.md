@@ -13,8 +13,8 @@ In this App, I use Node.js to process several different search commands that cou
 
 If the user does not input any of these commands, the app will prompt them to do so. Additionally, the app prompts the user to input more information if not enough is given.
 
-* **liri.js** ishe file that processes these commands
+* **liri.js** is the file that processes these commands
 
 * **Keys.js** holds the API keys for Twitter and Spotify
 
-* **random.txt** holds the text commands for the "do-what-it-says" process.
+* **random.txt** holds the text commands for the "do-what-it-says" process
